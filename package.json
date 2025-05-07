@@ -1,0 +1,21 @@
+{
+  "name": "commit-helper-cli",
+  "version": "1.0.0",
+  "description": "CLI para padronizar mensagens de commit com tipos, escopos e integração com tarefas (ClickUp, Trello etc).",
+  "main": "bin/cli.js",
+  "bin": {
+    "commit-helper": "./bin/cli.js"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "conventional-commits",
+    "clickup",
+    "trello",
+    "cli"
+  ],
+  "author": "Guilherme Soares",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {}
+}

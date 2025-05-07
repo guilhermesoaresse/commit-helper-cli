@@ -1,0 +1,11 @@
+{
+  "types": [
+    { "value": "feat", "emoji": "✨", "label": "Nova funcionalidade" },
+    { "value": "fix", "emoji": "🐛", "label": "Correção de bug" },
+    { "value": "docs", "emoji": "📝", "label": "Documentação" },
+    { "value": "infra", "emoji": "🛠️", "label": "Infraestrutura" }
+  ],
+  "scopes": ["auth", "cliente", "pedido", "infraestrutura", "checkout"],
+  "taskPrefix": "CU-",
+  "taskUrl": "https://app.clickup.com/t/{id}"
+}
