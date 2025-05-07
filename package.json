@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "description": "CLI para padronizar mensagens de commit com tipos, escopos e integração com tarefas (ClickUp, Trello etc).",
   "main": "bin/cli.js",
+  "private": false,
   "bin": {
     "commit-helper": "./bin/cli.js"
   },
